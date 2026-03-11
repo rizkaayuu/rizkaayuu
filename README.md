@@ -4,12 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Data+Analyst+Enthusiast;Machine+Learning+Explorer;NLP+Learner&center=true&width=500&height=50">
 </p>
 
-<h1 align="center">Hi 👋, I'm Rizka Ayu Ramadhani</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Data+Analyst+Enthusiast;Machine+Learning+Explorer;NLP+Learner&center=true&width=500&height=50">
-</p>
-
 <p align="center">
 Passionate about transforming raw data into meaningful insights and intelligent systems 📊
 </p>
